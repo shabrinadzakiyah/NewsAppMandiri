@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/headlinesFragment2"
+        android:title="Berita Terkini"
+        android:icon="@drawable/baseline_headline_24"/>
+
+    <item
+        android:id="@+id/favouritesFragment2"
+        android:title="Artikel Favorit"
+        android:icon="@drawable/baseline_favorite_24"/>
+
+    <item
+        android:id="@+id/searchFragment2"
+        android:title="Search"
+        android:icon="@drawable/baseline_search_24"/>
+
+
+</menu>
